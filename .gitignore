@@ -1,17 +1,44 @@
+# ==================== Obsidian 相关 ====================
+
+# 工作区配置 - 每次关闭都会变化，无需同步
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 图谱视图设置 - 个人偏好
+.obsidian/graph.json
+
+# 应用设置 - 个人偏好
+.obsidian/app.json
+
+# 外观设置 - 个人偏好
+.obsidian/appearance.json
+
+# 插件代码文件 - 可自动下载（可选保留 manifest.json 和 data.json）
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
 # Obsidian 自动生成的冲突文件
 /conflict-files-obsidian-git.md
 
-# Obsidian 工作区配置 - 每次关闭都会变化，无需同步
-.obsidian/workspace.json
+# ==================== 系统文件 ====================
 
-# Obsidian 图谱视图设置 - 个人偏好
-.obsidian/graph.json
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Obsidian 应用设置 - 个人偏好
-.obsidian/app.json
-.obsidian/appearance.json
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 
-# Obsidian 插件代码文件 - 可自动下载（可选保留）
-# .obsidian/plugins/*/main.js
-# .obsidian/plugins/*/styles.css
-/.obsidian/workspace.json
+# 编辑器
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.temp
+~$*
