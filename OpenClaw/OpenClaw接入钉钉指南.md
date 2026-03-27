@@ -1,3 +1,10 @@
+---
+title: OpenClaw接入钉钉指南
+date: 2026-03-23
+tags: [OpenClaw, AI工具]
+source: https://cloud.tencent.com/developer/article/2626553
+type: knowledge
+---
 # OpenClaw 接入钉钉指南
 
 > 来源：腾讯云开发者社区

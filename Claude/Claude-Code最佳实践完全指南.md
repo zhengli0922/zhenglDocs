@@ -1,3 +1,10 @@
+---
+title: Claude Code最佳实践完全指南
+date: 2026-03-23
+tags: [Claude, AI编程]
+source: https://github.com/shanraisshan/claude-code-best-practice
+type: knowledge
+---
 # Claude Code 最佳实践完全指南（完整版）
 
 > 来源：https://github.com/shanraisshan/claude-code-best-practice

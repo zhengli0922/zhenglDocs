@@ -1,3 +1,9 @@
+---
+title: OpenClaw AI人格自定义
+date: 2026-03-24
+tags: [OpenClaw, AI工具]
+type: knowledge
+---
 # Skill: AI人格自定义
 
 > 来源：抖音@亮哥养虾记 - "我养了一只懂我脾气的小龙虾"

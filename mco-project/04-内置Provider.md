@@ -1,3 +1,9 @@
+---
+title: 04 内置Provider
+date: 2026-03-24
+tags: [MCO, AI项目]
+type: knowledge
+---
 # MCO 内置 Provider
 
 > 本文档详细说明 MCO 支持的 AI Agent Provider

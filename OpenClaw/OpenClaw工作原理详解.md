@@ -1,3 +1,10 @@
+---
+title: OpenClaw工作原理详解
+date: 2026-03-23
+tags: [OpenClaw, AI工具]
+source: https://v.douyin.com/EQ-UEJBaA38/
+type: knowledge
+---
 # OpenClaw 工作原理详解
 
 > 来源：抖音 @小豆AI记（第6集）

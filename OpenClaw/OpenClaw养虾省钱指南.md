@@ -1,3 +1,10 @@
+---
+title: OpenClaw养虾省钱指南
+date: 2026-03-23
+tags: [OpenClaw, AI工具]
+source: https://developer.aliyun.com/article/1717434
+type: knowledge
+---
 # OpenClaw 养虾省钱指南 - 烧1亿Token总结
 
 > 来源：今日头条 - 阿里云开发者社区

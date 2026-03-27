@@ -1,3 +1,10 @@
+---
+title: OpenClaw自定义AI人格 小龙虾
+date: 2026-03-24
+tags: [OpenClaw, AI工具]
+source: https://v.douyin.com/TRHVQbXv3Yg/
+type: knowledge
+---
 # 我养了一只懂我脾气的小龙虾
 
 ---

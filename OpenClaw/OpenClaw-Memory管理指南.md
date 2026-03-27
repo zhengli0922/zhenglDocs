@@ -1,3 +1,9 @@
+---
+title: OpenClaw Memory管理指南
+date: 2026-03-23
+tags: [OpenClaw, AI工具]
+type: knowledge
+---
 # OpenClaw Memory 管理指南
 
 > 来源：抖音 @阿东玩AI

@@ -1,3 +1,9 @@
+---
+title: OpenClaw新手必装Skills推荐
+date: 2026-03-23
+tags: [OpenClaw, AI工具]
+type: knowledge
+---
 # OpenClaw 新手必装 Skills 推荐
 
 ## 📌 核心观点

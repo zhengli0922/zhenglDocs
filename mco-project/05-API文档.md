@@ -1,3 +1,9 @@
+---
+title: 05 API文档
+date: 2026-03-24
+tags: [MCO, AI项目]
+type: knowledge
+---
 # MCO CLI API 文档
 
 > 本文档详细说明 MCO 的命令行接口

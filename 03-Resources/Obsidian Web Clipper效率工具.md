@@ -1,3 +1,10 @@
+---
+title: Obsidian Web Clipper效率工具
+date: 2026-03-23
+tags: [工具, Obsidian]
+source: https://v.douyin.com/miqr_c3B4fw/
+type: knowledge
+---
 # Obsidian Web Clipper - 提升信息获取效率的神器
 
 > 来源：抖音 @黄益贺

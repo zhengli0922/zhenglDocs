@@ -1,3 +1,9 @@
+---
+title: OpenClaw必装Skills推荐
+date: 2026-03-23
+tags: [OpenClaw, AI工具]
+type: knowledge
+---
 # OpenClaw 必装 Skills 推荐
 
 > 来源：今日头条 - "别再装一堆没用的Skills了!OpenClaw新手第一批..."
